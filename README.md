@@ -4,6 +4,7 @@ I'm Kasun from New York in the United States and I am working on my Data Analysi
 
 ## Skills and Certifications
 Skills: Excel / SQL / PowerBI / Tableau
+
 Certifications: Google Data Analytics
 
 - 🔭 I’m currently working on SQL Project 
