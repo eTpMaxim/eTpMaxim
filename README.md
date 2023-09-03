@@ -1,4 +1,3 @@
-### Hi there 👋, Kasun Wong
 #### Data Analysis
 ![Data Analysis](https://github.com/eTpMaxim/eTpMaxim/blob/main/GitHub%20Banner2.png)
 
